@@ -8,6 +8,7 @@ Baixar a IDE do arduino [Click aqui para Download](https://www.arduino.cc/en/sof
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0e2cdf2f-852b-472e-8e5b-20c97f26a453" alt="Configuração do ESP32" width="700">
 </div>
+<br>
 
 
 Depois vai seguindo a instalação clicando em **Proximo** e instalar
@@ -19,7 +20,7 @@ Depois vai seguindo a instalação clicando em **Proximo** e instalar
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4be405f4-97b5-42e1-829e-67b4afb82a6a" alt="Configuração do ESP32" width="700">
 </div>
-
+<br>
 
 ```
 https://dl.espressif.com/dl/package_esp32_index.json
