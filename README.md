@@ -18,3 +18,7 @@ Depois vai seguindo a instalação clicando em **Proximo** e instalar
 ```
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
+
+Agora vamos instalar a placa na nossa IDE, vamos abrir o gerenciador de placas e pesquisar por `ESP32` e clicar em instalar conforme a imagem abaixo.
+
+![image](https://github.com/user-attachments/assets/c55b93de-eae8-4352-acc4-5ed509b04ceb)
