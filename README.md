@@ -25,11 +25,11 @@ Depois vai seguindo a instalação clicando em **Proximo** e instalar
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
 
+
 Agora vamos instalar a placa na nossa IDE, vamos abrir o gerenciador de placas e pesquisar por `ESP32` e clicar em instalar conforme a imagem abaixo.
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4be405f4-97b5-42e1-829e-67b4afb82a6a" alt="Configuração do ESP32" width="700">
+  <img src="https://github.com/user-attachments/assets/c55b93de-eae8-4352-acc4-5ed509b04ceb" alt="Configuração do ESP32" width="700">
 </div>
 
-![image](https://github.com/user-attachments/assets/c55b93de-eae8-4352-acc4-5ed509b04ceb)
